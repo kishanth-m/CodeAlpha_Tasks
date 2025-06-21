@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Futuristic Calculator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Gugi&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="calculator">
+    <div id="display" class="display">0</div>
+    <div class="history-toggle">
+      <button id="toggleTheme">🌙</button>
+      <button id="toggleHistory">📜</button>
+    </div>
+    <div id="history" class="history-panel hidden"></div>
+    <div class="buttons">
+      <button class="btn" data-key="C">C</button>
+      <button class="btn" data-key="/">÷</button>
+      <button class="btn" data-key="*">×</button>
+      <button class="btn" data-key="Backspace">⌫</button>
+      <button class="btn" data-key="7">7</button>
+      <button class="btn" data-key="8">8</button>
+      <button class="btn" data-key="9">9</button>
+      <button class="btn" data-key="-">−</button>
+      <button class="btn" data-key="4">4</button>
+      <button class="btn" data-key="5">5</button>
+      <button class="btn" data-key="6">6</button>
+      <button class="btn" data-key="+">+</button>
+      <button class="btn" data-key="1">1</button>
+      <button class="btn" data-key="2">2</button>
+      <button class="btn" data-key="3">3</button>
+      <button class="btn equal" data-key="Enter">=</button>
+      <button class="btn zero" data-key="0">0</button>
+      <button class="btn" data-key=".">.</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
