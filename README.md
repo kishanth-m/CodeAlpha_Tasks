@@ -48,10 +48,9 @@ To run this project locally:
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
-
 ---
+# 📬 contact 
 
-## 📬 Contact 
 Kishanth M
 GitHub: @kishanth-m
 Email: m.kishanth001@gmail.com
