@@ -51,15 +51,10 @@ See the LICENSE file for more details.
 
 ---
 
-## 📬 Contact
-
+## 📬 Contact 
 Kishanth M
-
 GitHub: @kishanth-m
-
 Email: m.kishanth001@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/kishanth-m-aa055b2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn:https://www.linkedin.com/in/kishanth-m-aa055b2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
-
 Thank you for visiting! 🚀
