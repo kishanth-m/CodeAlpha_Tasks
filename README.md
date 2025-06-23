@@ -24,10 +24,6 @@ This project is a basic calculator built using **HTML, CSS, and JavaScript**. It
 
 ---
 
-## 🎮 Live Preview
-
-![Calculator Screenshot](assets/screenshot.png) <!-- Replace with your screenshot path -->
-
 👉 Try it out: [https://kishanth-m.github.io/CodeAlpha_Tasks/](https://kishanth-m.github.io/CodeAlpha_Tasks/)
 
 ---
@@ -60,11 +56,12 @@ See the LICENSE file for more details.
 ## 📬 Contact
 
 Kishanth M
+
 GitHub: @kishanth-m
+
 Email: m.kishanth001@gmail.com
 
-
-
+LinkedIn: https://www.linkedin.com/in/kishanth-m-aa055b2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 Thank you for visiting! 🚀
