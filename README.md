@@ -49,4 +49,13 @@ This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
 ---
+## Contact
+
+Author: Kishanth M  
+GitHub: [https://github.com/Kishanth-M](https://github.com/Kishanth-M)  
+Email: m.kishanth001@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/kishanth-m-aa055b2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
 Thankyou for visiting 😄
